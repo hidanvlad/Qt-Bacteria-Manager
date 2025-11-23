@@ -1,0 +1,2 @@
+Alex,E.coli;Salmonella;Listeria
+Tudor,Staphylococcus;Listeria;Bacterie

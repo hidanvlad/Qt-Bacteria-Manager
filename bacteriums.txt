@@ -1,0 +1,5 @@
+E.coli_1,E.coli,5;UTI;Gastroenteritis
+Salmonella_1,Salmonella,3;Typhoid;Fever
+Listeria_1,Listeria,2;Food poisoning;Meningitis
+Streptococcus_1,Streptococcus,4;Throat infection;Fever
+Bacterie_1,Bacterie,10;Puroi;Fever
